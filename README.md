@@ -18,6 +18,12 @@ meiki is probably perfect for devices like the steam deck, asus rog ally or leno
 ![screenshot of meiki no popup](https://github.com/rtr46/meiki/assets/171138461/f5eace9d-262a-41ce-ba79-90cfdaed3a4e)
 
 
+
+https://github.com/rtr46/meiki/assets/171138461/2eae7ee2-8099-495d-adce-d8d74cdb2a47
+
+
+
+
 ## getting started
 - first you need a [jpdb.io](https://www.jpdb.io) account and and api key. the api key is available to all jpdb.io accounts and can be found at the bottom of the settings page
 - you need a game that meiki can help you with
