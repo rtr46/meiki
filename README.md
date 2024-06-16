@@ -15,10 +15,13 @@ meiki is probably perfect for devices like the steam deck, asus rog ally or leno
 - mark a sentence and all its tokens as known (default button disabled)
 - mark a sentence unknown and save a screenshot (default button disabled)
 
+![screenshot of meiki no popup](https://github.com/rtr46/meiki/assets/171138461/f5eace9d-262a-41ce-ba79-90cfdaed3a4e)
+
+
 ## getting started
-- first you need a [jpdb.io](jpdb.io) account and and api key. the api key is available to all jpdb.io accounts and can be found at the bottom of the settings page
+- first you need a [jpdb.io](https://www.jpdb.io) account and and api key. the api key is available to all jpdb.io accounts and can be found at the bottom of the settings page
 - you need a game that meiki can help you with
-- you need to texthook the game with something like [texttractor](https://github.com/Artikash/Textractor) or [agent](https://github.com/0xDC00/agent/releases)
+- you need to texthook the game with something like [textractor](https://github.com/Artikash/Textractor) or [agent](https://github.com/0xDC00/agent/releases)
 - those texthookers have to be configured to copy the text of the game into the clipboard
 - meiki monitors the clipboard for japanese text and parses+translates it via jpdb
 - meiki can display a popup which shows all tokens, words, readings, meaning and frequencies of the text line (default button RT)
