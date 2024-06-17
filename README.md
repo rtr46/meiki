@@ -1,28 +1,27 @@
 # meiki
-meiki lets you look up words with a gamepad while playing Japanese video games. (for windows)
+meiki lets you look up words with a gamepad while playing Japanese video games (on windows)
 
-meiki is like [JL](https://github.com/rampaa/JL) or ClipboardReader+Yomichan, but for gamepads! It used [jpdb.io](jpdb.io) for parsing + translating.
+meiki is like [JL](https://github.com/rampaa/JL) or ClipboardReader+Yomichan, but for gamepads! It uses [jpdb.io](jpdb.io) for parsing + translating
 
 meiki is probably perfect for devices like the steam deck, asus rog ally or lenovo legion go
 
+## download
+[Click here to download](https://github.com/rtr46/meiki/releases)
+
 ## features
-- observe the clipboard for japanese text and automatically parse + translate via jpdb.io
-- show/hide a popup displaying tokens, readings, translations and frequencies of sentences (default button RT)
-- add furigana (enabled by default)
-- scroll inside the popup with your gamepad (right analogue stick)
-- pause a game/emulator while showing the popup (disabled by default, default simulated pause key F4)
-- log all sentences encountered
-- mark a sentence and all its tokens as known (default button disabled)
-- mark a sentence unknown and save a screenshot (default button disabled)
+- clipboard monitoring for japanese text and automatically parse + translate via jpdb.io
+- popup displaying tokens, readings, translations and frequencies of sentences (default button RT)
+- adding furigana (enabled by default)
+- popup scrolling via gamepad (right analogue stick)
+- game/emulator pausing while the popup is being displayed (disabled by default, default simulated pause key F4)
+- sentence logging
+- marking sentences and words as known (default button disabled)
+- marking sentences as unknown (default button disabled)
+- saving screenshots (default button disabled)
 
 ![screenshot of meiki no popup](https://github.com/rtr46/meiki/assets/171138461/f5eace9d-262a-41ce-ba79-90cfdaed3a4e)
 
-
-
 https://github.com/rtr46/meiki/assets/171138461/2eae7ee2-8099-495d-adce-d8d74cdb2a47
-
-
-
 
 ## getting started
 - first you need a [jpdb.io](https://www.jpdb.io) account and and api key. the api key is available to all jpdb.io accounts and can be found at the bottom of the settings page
